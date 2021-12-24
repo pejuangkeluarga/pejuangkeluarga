@@ -1,0 +1,266 @@
+{
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"backup_ads_banner": "qwerty1234",
+		"backup_ads_intertitial": "qwerty1234",
+		"interval_intertitial": 3,
+		"initialize_sdk": "null",
+		"initialize_sdk_backup_ads": "null",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+	"Categories": [{
+			"id": 1,
+			"name_category": "TERBARU",
+			"image": "file:///android_asset/image/HAPA.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "LENGKAP",
+			"image": "file:///android_asset/image/HAPB.jpg"
+		}
+	],
+	"Data": [{
+			"id": 1,
+			"name_category": "TERBARU",
+			"title": "AKU BUKAN JODOHNYA",
+			"image": "file:///android_asset/image/HAPA.jpg",
+			"link_mp3": "mp3/8YPAKUBUKANJODOHNYAOL.mp3",
+			"duration": "286",
+			"lyrics": "akan segera hadir sedang dalam proses update"
+		},
+		{
+			"id": 2,
+			"name_category": "TERBARU",
+			"title": "BAHAGIA",
+			"image": "file:///android_asset/image/HAPA.jpg",
+			"link_mp3": "mp3/7YPBAHAGIAOL.mp3",
+			"duration": "296",
+			"lyrics": "akan segera hadir sedang dalam proses update"
+		},
+		{
+			"id": 3,
+			"name_category": "TERBARU",
+			"title": "AMBYAR MAK PYAR",
+			"image": "file:///android_asset/image/HAPA.jpg",
+			"link_mp3": "mp3/6YPAMBYARMAKPYAROL.mp3",
+			"duration": "297",
+			"lyrics": "akan segera hadir sedang dalam proses update"
+		},
+		{
+			"id": 4,
+			"name_category": "TERBARU",
+			"title": "DURI DURI",
+			"image": "file:///android_asset/image/HAPA.jpg",
+			"link_mp3": "mp3/5YPDURIDURIOL.mp3",
+			"duration": "213",
+			"lyrics": "Sekarang ku tahu<br>Dirimu t'lah bersamanya<br>Walau sakit hati yang kurasa<br>Akan kujalani dengan sendirinya<br>=<br>=<br><p>Ku terus berjuang<br>Walau tanpamu, sayang<br>Mimpi-mimpi yang t'lah kuciptakan<br>Kini hanya tinggallah kenangan<br>=<br>=<br><p>Duri-duri yang kau tancapkan di hati ini<br>Membuat diriku sakit hati<br>Aku yang berjuang 'tuk dirimu<br>Tapi dia yang dapatkan cintamu<br>=<br>=<br><p>Surat undangan yang kau berikan kepadaku<br>Serasa ku tak percaya<br>Kutitipkan cintaku kepadanya<br>Jagalah dia, buatlah dia bahagia<br>=<br>=<br><p>Ku terus berjuang<br>Walau tanpamu, sayang<br>Mimpi-mimpi yang t'lah kuciptakan<br>Kini hanya tinggallah kenangan<br>=<br>=<br><p>Duri-duri yang kau tancapkan di hati ini<br>Membuat diriku sakit hati<br>Aku yang berjuang 'tuk dirimu<br>Tapi dia yang dapatkan cintamu<br>=<br>=<br><p>Surat undangan yang kau berikan kepadaku<br>Serasa ku tak percaya<br>Kutitipkan cintaku kepadanya<br>Jagalah dia, buatlah dia bahagia, ho-oh<br>=<br>=<br><p>Duri-duri yang kau tancapkan di hati ini<br>Membuat diriku sakit hati<br>Aku yang berjuang 'tuk dirimu<br>Tapi dia yang dapatkan cintamu, hu-uh<br>=<br>=<br><p>Surat undangan yang kau berikan kepadaku<br>Serasa ku tak percaya<br>Kutitipkan cintaku kepadanya<br>=<br>=<br><p>Jagalah dia, buatlah dia bahagia<br>Jagalah dia, buatlah dia bahagia<br>"
+		},
+		{
+			"id": 5,
+			"name_category": "TERBARU",
+			"title": "OJO NANGIS",
+			"image": "file:///android_asset/image/HAPA.jpg",
+			"link_mp3": "mp3/4YPOJONANGISOL.mp3",
+			"duration": "357",
+			"lyrics": "Mbiyen mbok perjuangke<br>Saiki mbok sia-siake<br>Aku sing s’lalu ono pas kowe loro<br>Pas kowe durung sopo-sopo<br>=<br><p>Aku wis njogo ati<br>Kowe dolanan ning mburi<br>Kabeh sing tak perjuangke sio-sio<br>Kowe milih karo sing luwih mulyo<br>=<br><p>Mesakke atiku yen tak teruske ro kowe<br>Mending pisah, aku wis ra betah<br>Wis kebacut getun kulo nderek langkung<br>Tresno wis rampung<br>=<br><p>Ojo nangis (ojo nangis)<br>Sing uwis, yo uwis (yo uwis)<br>Sing ilang, ben ilang<br>Cukup aku kelaran-laran<br>=<br><p>Aku nyerah (aku nyerah)<br>Sing bubrah, ben bubrah (ben bubrah)<br>Kowe bakal ngerti larane<br>Naliko ditinggal pas jeru-jerune<br>=<br><p>Kudune ngati-ati<br>Opo maneh yen bab ati<br>Kudu mlaku dhewe-dhewe<br>Larane tak tanggung dhewe<br>=<br><p>Mesakke atiku yen tak teruske ro kowe<br>Mending pisah, aku wis ra betah<br>Wis kebacut getun kulo nderek langkung<br>Tresno wis rampung<br>=<br><p>Ojo nangis (ojo nangis)<br>Sing uwis, yo uwis (yo uwis)<br>Sing ilang, ben ilang<br>Cukup aku kelaran-laran<br>=<br><p>Aku nyerah (aku nyerah)<br>Sing bubrah, ben bubrah (ben bubrah)<br>Kowe bakal ngerti larane<br>Naliko ditinggal pas jeru-jerune<br>=<br><p>Kowe bakal ngerti larane<br>Naliko ditinggal pas jeru-jerune.<br>"
+		},
+		{
+			"id": 6,
+			"name_category": "TERBARU",
+			"title": "LEMAH TELES",
+			"image": "file:///android_asset/image/HAPA.jpg",
+			"link_mp3": "mp3/4YPLEMAHTELESOL.mp3",
+			"duration": "306",
+			"lyrics": "Kowe mbelok ngiwo nengen tanpo nguwasne mburi<br>Tak tabrak kowe loro iki salahe sopo<br>Yen kowe wes ra tresno ngomong ojo trus lungo<br>Awas nemoni apes lemah teles gusti sing bakal mbales<br>=<br><p>Jujur ati iki loro<br>Durung biso nompo kenyataan<br>Tanduran sing wes tak sirami<br>Malih dadi awu ireng diobong karo kahanan<br>=<br><p>Biyen janji bareng-bareng<br>Ngrasakne susah lan seneng<br>Saiki kowe medotke angen-angen<br>Tak kuatne ati yen kudu kelangan, hoo-oo<br>=<br><p>Kowe mbelok ngiwo nengen tanpo nguwasne mburi<br>Tak tabrak kowe loro iki salahe sopo<br>Yen kowe wes ra tresno ngomong ojo trus lungo<br>Awas nemoni apes lemah teles gusti sing bakal mbales<br>=<br><p>Jujur ati iki loro<br>Durung biso nompo kenyataan<br>Tanduran sing wes tak sirami<br>Malih dadi awu ireng diobong karo kahanan<br>=<br><p>Biyen janji bareng-bareng<br>Ngrasakne susah lan seneng<br>Saiki kowe medotke angen-angen<br>Tak kuatne ati yen kudu kelangan<br>=<br><p>Kowe mbelok ngiwo nengen tanpo nguwasne mburi<br>Tak tabrak kowe loro iki salahe sopo<br>Yen kowe wes ra tresno ngomong ojo trus lungo<br>Awas nemoni apes lemah teles gusti sing bakal mbales<br>=<br><p>Kowe mbelok ngiwo nengen tanpo nguwasne mburi<br>Tak tabrak kowe loro iki salahe sopo<br>Yen kowe wes ra tresno ngomong ojo trus lungo<br>Awas nemoni apes lemah teles gusti sing bakal mbales<br>Lemah teles gusti sing bakal mbales<br>"
+		},
+		{
+			"id": 7,
+			"name_category": "TERBARU",
+			"title": "PINGAL",
+			"image": "file:///android_asset/image/HAPA.jpg",
+			"link_mp3": "mp3/3YPPINGALOL.mp3",
+			"duration": "275",
+			"lyrics": "Piye sek jelaske karo wongtuwo<br>Wes ngelakoni tekan semene<br>Nek akhire bakal bubar pisahan<br>Kowe kegudo tresno karo wong liyo<br>=<br><p>Ngelali kowe sing tau ngomong dewe<br>Ngelakoni tresno tekan tuwo<br>Ora ngeliyo mung aku ning atimu<br>Nanging saiki atimu ono wong liyo<br>=<br><p>Ibarat esuk mendung, awan aku kudanan<br>Sore mbok larani, bengi tak tangisi<br>=<br><p>Mung iso bayangke kabeh kenangan<br>Kowe tak boncengke, turut dalan kekepan kudanan<br>Saiki nyatane kowe malah milih<br>Dikekep wong liyo<br>=<br><p>Opo kowe ra kroso abote atiku<br>Kudu kelangan wong sing paling tak tresnani<br>Ra jenak dolan, ra doyan mangan<br>Nek ra mbok dulang<br>=<br><p>Ibarat esuk mendung, awan aku kudanan<br>Sore mbok larani, bengi tak tangisi<br>=<br><p>Mung iso bayangke kabeh kenangan<br>Kowe tak boncengke, turut dalan kekepan kudanan<br>Saiki nyatane kowe malah milih<br>Dikekep wong liyo<br>=<br><p>Opo kowe ra kroso abote atiku<br>Kudu kelangan wong sing paling tak tresnani<br>Ra jenak dolan, ra doyan mangan<br>Nek ra mbok dulang<br>=<br><p>Ra jenak dolan, ra doyan mangan<br>Nek ra mbok dulang<br>"
+		},
+		{
+			"id": 8,
+			"name_category": "TERBARU",
+			"title": "CIDRO 3",
+			"image": "file:///android_asset/image/HAPA.jpg",
+			"link_mp3": "mp3/2YPCIDRO3OL.mp3",
+			"duration": "328",
+			"lyrics": "Ora perpisahan sing dadi getuning ati<br>Nanging nyapo mbiyen kowe tak senengi<br>Nyenengi sliramu gawe loro atiku<br>Getune nyapo mbiyen ketemu<br>=<br><p>Jare kowe wes ngukir jenengku<br>Mbok patri ning njero atimu<br>Yen iling mbiyen karo janjimu<br>Tresnomu mung siji yo aku<br>=<br><p>Ning opo saikine cidro<br>Kabeh omongmu kuwi gombal mukiyo<br>=<br><p>Sopo wonge sing ra bakal tatu<br>Nyenengi wong koyo sliramu<br>Ngomong cinta sayang mung ning aku<br>Janji setiyo sak umur uripmu<br>=<br><p>Ning opo sak ikine tego<br>Ning ngarep moto kowe nggandeng wong liyo<br>Hohooo hohooo keiris atiku<br>=<br><p>Ancen rogo iki ora nggetih senajan tatu<br>Mergo roso perihe ning njero dodoku<br>Gulone manis isih manis madu<br>Mergane sing mbok iris atiku<br>=<br><p>Ora perpisahan sing dadi getuning ati<br>Nanging nyapo mbiyen kowe tak senengi<br>Nyenengi sliramu gawe loro atiku<br>Getune nyapo mbiyen ketemu<br>=<br><p>Sopo wonge sing ra bakal tatu<br>Nyenengi wong koyo sliramu<br>Ngomong cinta sayang mung ning aku<br>Janji setyo sak umur uripmu<br>=<br><p>Ning opo sak ikine tego<br>Ning ngarep moto kowe nggandeng wong liyo<br>Hohooo hohooo keiris atiku<br>=<br><p>Ancen rogo iki ora nggetih senajan tatu<br>Mergo roso perihe ning njero dodoku<br>Gulone manis isih manis madu<br>Mergane sing mbok iris atiku<br>=<br><p>Ora perpisahan sing dadi getuning ati<br>Nanging nyapo mbiyen kowe tak senengi<br>Nyenengi sliramu gawe loro atiku<br>Getune nyapo mbiyen ketemu <br>Getune nyapo mbiyen ketemu<br>"
+		},
+		{
+			"id": 9,
+			"name_category": "TERBARU",
+			"title": "TOP TOPAN",
+			"image": "file:///android_asset/image/HAPA.jpg",
+			"link_mp3": "mp3/1YPTOPTOPANOL.mp3",
+			"duration": "303",
+			"lyrics": "=<br><p>Wes tak cobo ngampet loro<br>Wes tak cobo jogo tresno<br>Loro sing tok jalari ora tak rasakke<br>Najan aku ngerti koe karo liyane<br>=<br><p>==<br><p>Cobo koe ono ning posisiku<br>Opo koe iso kuat atimu<br>Ngrasakke tok larani<br>Ning sak bendinoku<br>Koe ra ngroso kok malah suloyo<br>=<br><p>==<br><p>Kulo pun angkat tangan<br>Atine pun ajur ajuran<br>Kulo tak milih pamit<br>Ati kulo pun roso sakit<br>=<br><p>==<br><p>Ngapurane sayang<br>Aku udu wong top topan<br>Ora koyo idamanmu<br>Sing gampang nrobos atimu<br>=<br><p>==<br><p>Aku janne ngerti koe ghosting ati<br>Tak cobo goblok tetap mencintai<br>Sepenuh hati<br>=<br><p>==<br><p>Kulo pun angkat tangan<br>Atine pun ajur ajuran<br>Kulo tak milih pamit<br>Ati Kulo Pun Roso Sakit<br>=<br><p>==<br><p>Ngapurane sayang<br>Aku udu wong top topan<br>Ora koyo idamanmu<br>Sing gampang nrobos atimu<br>=<br><p>==<br><p>Aku janne ngerti koe ghosting ati<br>Tak cobo goblok tetap mencintai<br>Sepenuh hati<br>=<br><p>==<br><p>Tak cobo goblok tetap mencintai<br>Sepenuh hati<br>Sepenuh hati<br>"
+		},
+		{
+			"id": 10,
+			"name_category": "TERBARU",
+			"title": "BALE PULANG",
+			"image": "file:///android_asset/image/HAPA.jpg",
+			"link_mp3": "mp3/9YPBALEPULANGOL.mp3",
+			"duration": "223",
+			"lyrics": "akan segera hadir sedang dalam proses update"
+		},
+		{
+			"id": 11,
+			"name_category": "TERBARU",
+			"title": "SALAM TRESNO",
+			"image": "file:///android_asset/image/HAPA.jpg",
+			"link_mp3": "mp3/10YPSALAMTRESNOOL.mp3",
+			"duration": "310",
+			"lyrics": "akan segera hadir sedang dalam proses update"
+		},
+		{
+			"id": 12,
+			"name_category": "TERBARU",
+			"title": "WES TATAS",
+			"image": "file:///android_asset/image/HAPA.jpg",
+			"link_mp3": "mp3/11YPWESTATASOL.mp3",
+			"duration": "226",
+			"lyrics": "akan segera hadir sedang dalam proses update"
+		},
+		{
+			"id": 13,
+			"name_category": "TERBARU",
+			"title": "SIJI WEKTUKU",
+			"image": "file:///android_asset/image/HAPA.jpg",
+			"link_mp3": "mp3/12YPSIJIWEKTUKUOL.mp3",
+			"duration": "243",
+			"lyrics": "akan segera hadir sedang dalam proses update"
+		},
+		{
+			"id": 14,
+			"name_category": "LENGKAP",
+			"title": "AKHIRE PISAHAN",
+			"image": "file:///android_asset/image/HAPB.jpg",
+			"link_mp3": "mp3/YPAKHIREPISAHANOL.mp3",
+			"duration": "243",
+			"lyrics": "akan segera hadir sedang dalam proses update"
+		},
+		{
+			"id": 15,
+			"name_category": "LENGKAP",
+			"title": "ANGIN NDALU",
+			"image": "file:///android_asset/image/HAPB.jpg",
+			"link_mp3": "mp3/YPANGINNDALUOL.mp3",
+			"duration": "204",
+			"lyrics": "akan segera hadir sedang dalam proses update"
+		},
+		{
+			"id": 16,
+			"name_category": "LENGKAP",
+			"title": "APAKAH ITU CINTA",
+			"image": "file:///android_asset/image/HAPB.jpg",
+			"link_mp3": "mp3/YPAPAKAHITUCINTAOL.mp3",
+			"duration": "268",
+			"lyrics": "akan segera hadir sedang dalam proses update"
+		},
+		{
+			"id": 17,
+			"name_category": "LENGKAP",
+			"title": "ATI SING LIYO",
+			"image": "file:///android_asset/image/HAPB.jpg",
+			"link_mp3": "mp3/YPATISINGLIYOOL.mp3",
+			"duration": "244",
+			"lyrics": "akan segera hadir sedang dalam proses update"
+		},
+		{
+			"id": 18,
+			"name_category": "LENGKAP",
+			"title": "CERITO LORO",
+			"image": "file:///android_asset/image/HAPB.jpg",
+			"link_mp3": "mp3/YPCERITOLOROOL.mp3",
+			"duration": "366",
+			"lyrics": "akan segera hadir sedang dalam proses update"
+		},
+		{
+			"id": 19,
+			"name_category": "LENGKAP",
+			"title": "CIDRO 2",
+			"image": "file:///android_asset/image/HAPB.jpg",
+			"link_mp3": "mp3/YPCIDRO2OL.mp3",
+			"duration": "222",
+			"lyrics": "akan segera hadir sedang dalam proses update"
+		},
+		{
+			"id": 20,
+			"name_category": "LENGKAP",
+			"title": "JANGAN TINGGALKAN AKU",
+			"image": "file:///android_asset/image/HAPB.jpg",
+			"link_mp3": "mp3/YPJANGANTINGGALKANAKUOL.mp3",
+			"duration": "280",
+			"lyrics": "akan segera hadir sedang dalam proses update"
+		},
+		{
+			"id": 21,
+			"name_category": "LENGKAP",
+			"title": "LDR",
+			"image": "file:///android_asset/image/HAPB.jpg",
+			"link_mp3": "mp3/YPLDROL.mp3",
+			"duration": "248",
+			"lyrics": "akan segera hadir sedang dalam proses update"
+		},
+		{
+			"id": 22,
+			"name_category": "LENGKAP",
+			"title": "LOS DOL",
+			"image": "file:///android_asset/image/HAPB.jpg",
+			"link_mp3": "mp3/YPLOSDOLOL.mp3",
+			"duration": "284",
+			"lyrics": "akan segera hadir sedang dalam proses update"
+		},
+		{
+			"id": 23,
+			"name_category": "LENGKAP",
+			"title": "OJO GOBLOK MENCINTA",
+			"image": "file:///android_asset/image/HAPB.jpg",
+			"link_mp3": "mp3/YPOJOGOBLOKMENCINTAOL.mp3",
+			"duration": "219",
+			"lyrics": "akan segera hadir sedang dalam proses update"
+		},
+		{
+			"id": 24,
+			"name_category": "LENGKAP",
+			"title": "SAKIT GIGI",
+			"image": "file:///android_asset/image/HAPB.jpg",
+			"link_mp3": "mp3/YPSAKITGIGIOL.mp3",
+			"duration": "299",
+			"lyrics": "akan segera hadir sedang dalam proses update"
+		},
+		{
+			"id": 25,
+			"name_category": "LENGKAP",
+			"title": "TAK LALEKNE KOWE",
+			"image": "file:///android_asset/image/HAPB.jpg",
+			"link_mp3": "mp3/YPTAKLALEKNEKOWEOL.mp3",
+			"duration": "274",
+			"lyrics": "akan segera hadir sedang dalam proses update"
+		},
+		{
+			"id": 26,
+			"name_category": "LENGKAP",
+			"title": "TAK WARAHI CARANE",
+			"image": "file:///android_asset/image/HAPB.jpg",
+			"link_mp3": "mp3/YPYPTAKWARAHICARANEOL.mp3",
+			"duration": "272",
+			"lyrics": "akan segera hadir sedang dalam proses update"
+		}
+	]
+}
