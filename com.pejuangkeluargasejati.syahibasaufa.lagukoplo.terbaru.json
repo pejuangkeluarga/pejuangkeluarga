@@ -1,0 +1,285 @@
+{
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "",
+    "main_ads_banner": "",
+    "main_ads_intertitial": "",
+    "backup_ads_banner": "qwerty1234",
+    "backup_ads_intertitial": "qwerty1234",
+    "interval_intertitial": 3,
+    "initialize_sdk": "null",
+    "initialize_sdk_backup_ads": "null",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }],
+  "Categories": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "image": "file:///android_asset/image/SYA.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "LENGKAP",
+      "image": "file:///android_asset/image/SYB.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "title": "REMBULAN MALAM",
+    "image": "file:///android_asset/image/SYA.jpg",
+    "link_mp3": "mp3/9SYREMBLANMALAMFA.mp3",
+    "duration": "282",
+    "lyrics": ""
+  },
+    {
+      "id": 2,
+      "name_category": "TERBARU",
+      "title": "OJO NANGIS",
+      "image": "file:///android_asset/image/SYA.jpg",
+      "link_mp3": "mp3/8SYOJONANGISFA.mp3",
+      "duration": "305",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "TERBARU",
+      "title": "LEMAH TELES",
+      "image": "file:///android_asset/image/SYA.jpg",
+      "link_mp3": "mp3/7SYLEMAHTELESFA.mp3",
+      "duration": "278",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "TERBARU",
+      "title": "BUIH JADI PERMADANI",
+      "image": "file:///android_asset/image/SYA.jpg",
+      "link_mp3": "mp3/6SYBUIHJDIPERMADANIFA.mp3",
+      "duration": "371",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "TERBARU",
+      "title": "AKU BUKAN JODOHNYA",
+      "image": "file:///android_asset/image/SYA.jpg",
+      "link_mp3": "mp3/5SYAKUBUKANJDHNYAFA.mp3",
+      "duration": "385",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "TERBARU",
+      "title": "WIDODARI",
+      "image": "file:///android_asset/image/SYA.jpg",
+      "link_mp3": "mp3/4SYWIDODARIFA.mp3",
+      "duration": "318",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "TERBARU",
+      "title": "TOP TOPAN",
+      "image": "file:///android_asset/image/SYA.jpg",
+      "link_mp3": "mp3/3SYTOPTOPANFA.mp3",
+      "duration": "270",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "TERBARU",
+      "title": "BIDADARI CINTA",
+      "image": "file:///android_asset/image/SYA.jpg",
+      "link_mp3": "mp3/2SYBIDADARICINTAFA.mp3",
+      "duration": "270",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "TERBARU",
+      "title": "ACA ACA NEHI NEHI",
+      "image": "file:///android_asset/image/SYA.jpg",
+      "link_mp3": "mp3/1SYACAACANEHINEHIFA.mp3",
+      "duration": "273",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "TERBARU",
+      "title": "SIA SIA BERJUANG",
+      "image": "file:///android_asset/image/SYA.jpg",
+      "link_mp3": "mp3/10SYSIABERJUANGFA.mp3",
+      "duration": "263",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "TERBARU",
+      "title": "SAKIT GIGI",
+      "image": "file:///android_asset/image/SYA.jpg",
+      "link_mp3": "mp3/11SYSKITGIGIFA.mp3",
+      "duration": "391",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "TERBARU",
+      "title": "SALAM TRESNO",
+      "image": "file:///android_asset/image/SYA.jpg",
+      "link_mp3": "mp3/12SYDSALAMTRESNOFA.mp3",
+      "duration": "288",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "TERBARU",
+      "title": "CIDRO 2",
+      "image": "file:///android_asset/image/SYA.jpg",
+      "link_mp3": "mp3/13SYCIDRO2FA.mp3",
+      "duration": "213",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "TERBARU",
+      "title": "WES TATAS",
+      "image": "file:///android_asset/image/SYA.jpg",
+      "link_mp3": "mp3/14SYWESTAATSFA.mp3",
+      "duration": "260",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "LENGKAP",
+      "title": "HADIRMU BAGAI MIMPI",
+      "image": "file:///android_asset/image/SYB.jpg",
+      "link_mp3": "mp3/15SYHADIRMUBAGAIMIMPIFA.mp3",
+      "duration": "277",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "LENGKAP",
+      "title": "TEPUNG KANJI",
+      "image": "file:///android_asset/image/SYB.jpg",
+      "link_mp3": "mp3/16SYTEPUNGKANJIFA.mp3",
+      "duration": "227",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "LENGKAP",
+      "title": "WELAS HANG RENG KENE",
+      "image": "file:///android_asset/image/SYB.jpg",
+      "link_mp3": "mp3/17SYWELASHANGRENGKENEFA.mp3",
+      "duration": "229",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "LENGKAP",
+      "title": "ADA RINDU",
+      "image": "file:///android_asset/image/SYB.jpg",
+      "link_mp3": "mp3/SYADARINDUFA.mp3",
+      "duration": "295",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "LENGKAP",
+      "title": "AKU HANYA BISA BERKATA SAYANG",
+      "image": "file:///android_asset/image/SYB.jpg",
+      "link_mp3": "mp3/SYAKUHANYABISABERKATASAYANGFA.mp3",
+      "duration": "279",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "LENGKAP",
+      "title": "BANYU MOTO",
+      "image": "file:///android_asset/image/SYB.jpg",
+      "link_mp3": "mp3/SYBANYUMOTOFA.mp3",
+      "duration": "299",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "LENGKAP",
+      "title": "BUKAN PHO",
+      "image": "file:///android_asset/image/SYB.jpg",
+      "link_mp3": "mp3/SYBUKANPHOFA.mp3",
+      "duration": "223",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "LENGKAP",
+      "title": "DITINGGAL PAS SAYANG",
+      "image": "file:///android_asset/image/SYB.jpg",
+      "link_mp3": "mp3/SYDITINGGALPASSAYANGSAYNGEFA.mp3",
+      "duration": "325",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "LENGKAP",
+      "title": "JAJAL KOWE DADI AKU",
+      "image": "file:///android_asset/image/SYB.jpg",
+      "link_mp3": "mp3/SYJAJALKOWEDADIAKUFA.mp3",
+      "duration": "271",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "LENGKAP",
+      "title": "KOPI DANGDUT",
+      "image": "file:///android_asset/image/SYB.jpg",
+      "link_mp3": "mp3/SYKOPIDANGDUTFA.mp3",
+      "duration": "188",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "LENGKAP",
+      "title": "LUNGAMU NINGGAL KENANGAN",
+      "image": "file:///android_asset/image/SYB.jpg",
+      "link_mp3": "mp3/SYLUNGAMUNINGGALKNANGANFA.mp3",
+      "duration": "374",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "LENGKAP",
+      "title": "SATRU",
+      "image": "file:///android_asset/image/SYB.jpg",
+      "link_mp3": "mp3/SYSATRUFA.mp3",
+      "duration": "282",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "LENGKAP",
+      "title": "TALINING ASMORO",
+      "image": "file:///android_asset/image/SYB.jpg",
+      "link_mp3": "mp3/SYTALINGINGASMORAOFA.mp3",
+      "duration": "244",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "LENGKAP",
+      "title": "TRESNO SUDRO",
+      "image": "file:///android_asset/image/SYB.jpg",
+      "link_mp3": "mp3/SYTRESNOSUDRIFA.mp3",
+      "duration": "336",
+      "lyrics": ""
+    }
+
+  ]
+}
