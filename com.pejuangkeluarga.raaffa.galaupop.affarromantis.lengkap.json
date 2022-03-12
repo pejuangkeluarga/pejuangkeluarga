@@ -1,0 +1,326 @@
+{
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "",
+    "main_ads_banner": "",
+    "main_ads_intertitial": "",
+    "backup_ads_banner": "qwerty1234",
+    "backup_ads_intertitial": "qwerty1234",
+    "interval_intertitial": 3,
+    "initialize_sdk": "null",
+    "initialize_sdk_backup_ads": "null",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }],
+  "Categories": [{
+    "id": 1,
+    "name_category": "RAFFA",
+    "image": "file:///android_asset/image/raa.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "POP INDO HITS",
+      "image": "file:///android_asset/image/INPH.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "RAFFA",
+    "title": "CUMA SAYA",
+    "image": "file:///android_asset/image/raa.jpg",
+    "link_mp3": "mp3/RFCUMASAYAFA.mp3",
+    "duration": "136",
+    "lyrics": ""
+  },
+    {
+      "id": 2,
+      "name_category": "RAFFA",
+      "title": "CINTA TAK HARUS MEMILIKI",
+      "image": "file:///android_asset/image/raa.jpg",
+      "link_mp3": "mp3/RFCINTATAKHATUSMEMILIKIFA.mp3",
+      "duration": "274",
+      "lyrics": "<p>Cinta memang tak selama nya bisa indah<br />Cinta juga bisa berubah menjadi sakit<br />Begitu yang kurasakan kini<br />Perih hatiku tinggal kehancuran</p><p>Tak pernah terbayangkan<br />Dan tak pernah terpikirkan<br />Cintamu dan cintaku akan berpisah<br />Namun harus kurelakan itu<br />Untuk hidupmu agar lebih baik</p><p>Maafkan aku<br />Setulus hatimu<br />Kepergian diriku itu bukan keinginanku<br />Terima saja dengan pilihan yang lain dari orang tuamu</p><p>Jangan bersedih dengan keadaan ini<br />Jika kamu menangis<br />Aku juga ikut menangis<br />Terima saja semua ini kulakukan<br />Untukmu</p><p>Maafkan aku<br />Setulus hatimu<br />Kepergian diriku itu bukan keinginanku<br />Terima saja dengan pilihan yang lain dari orang tuamu</p><p>Oh jangan bersedih dengan keadaan ini<br />Jika kamu menangis<br />Aku juga ikut menangis<br />Terima saja semua ini kulakukan<br />Demi kebaikanmu</p><p>Oh jangan bersedih dengan keadaan ini<br />Jika kamu menangis<br />Aku juga ikut menangis<br />Terima saja semua ini kulakukan<br />Terima saja semua ini kulakukan<br />Untukmu</p>"
+    },
+    {
+      "id": 3,
+      "name_category": "RAFFA",
+      "title": "MENCARI ALASAN",
+      "image": "file:///android_asset/image/raa.jpg",
+      "link_mp3": "mp3/6RFMENCARIALASANFA.mp3",
+      "duration": "327",
+      "lyrics": "<p>Ikhlasnya hati sering kali disalah arti<br />Tulusnya cinta tiada pernah engkau hargai<br />Berlalu pergi dengan kelukaan ini<br />Ku mengalah, ku bersabar</p><p>Berpaling muka bila saling bertatap mata<br />Seolah kita tiada pernah saling mencinta<br />Mencari sebab, serta mencari alasan<br />Supaya tercapai hasratmu</p><p>Manis di bibir, memutar kata<br />Malah kau tuduh akulah segala penyebabnya<br />Siapa terlena, pasti 'kan terpana bujuknya, rayunya, suaranya<br />Yang menyimpan simpati dan harapan</p><p>Engkau pastinya tersenyum dengan pengunduran diriku<br />Tetapi bagi diriku suatu ketenangan<br />Andainya kita terus bersama, belum tentu kita bahagia<br />Selama tidak kau rubah cara hidupmu</p><p>Ada baiknya kita tidak lagi bersama<br />Aku tinggalkan walau tanpa kerelaan<br />Yang nyata, kau tidak berubah</p><p>Ho-wo-oh<br />Ho-oh-wo-wo-oh</p><p>Berpaling muka bila saling bertatap mata<br />Seolah kita tiada pernah saling mencinta<br />Mencari sebab, serta mencari alasan<br />Supaya tercapai hasratmu</p><p>Manis di bibir, memutar kata<br />Malah kau tuduh akulah segala penyebabnya<br />Siapa terlena, pasti 'kan terpana bujuknya, rayunya, suaranya<br />Yang menyimpan simpati dan harapan</p><p>Engkau pastinya tersenyum dengan pengunduran diriku<br />Tetapi bagi diriku suatu ketenangan<br />Andainya kita terus bersama, belum tentu kita bahagia<br />Selama tidak kau rubah cara hidupmu</p><p>Katakan apa yang kau ingin selagi kau dapat berkata<br />Memang begini sikapmu semenjak dahulu<br />Andainya kita terus bersama, belum tentu kita bahagia<br />Selama tidak kau rubah jalan hidupmu</p>"
+    },
+    {
+      "id": 4,
+      "name_category": "RAFFA",
+      "title": "CERITAKAN KEMBALI",
+      "image": "file:///android_asset/image/raa.jpg",
+      "link_mp3": "mp3/5RFCERITAKANKEMBALIFA.mp3",
+      "duration": "236",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "RAFFA",
+      "title": "BUIH JADI PERMADANI",
+      "image": "file:///android_asset/image/raa.jpg",
+      "link_mp3": "mp3/4RFBUIHJADIPERMADANIFA.mp3",
+      "duration": "341",
+      "lyrics": "<p>Dinginnya angin malam ini menyapa tubuhku<br />Namun tidak dapat dinginkan panasnya hatiku ini<br />Terasa terhempasnya kelakianku ini dengan sikapmu<br />Apakah karna aku insan kekurangan mudahnya kau mainkan</p><p>Oh mungkinkah diri ini dapat merubah buih<br />Yang memutih menjadi permadani<br />Seperti pinta yang kau ucap dalam janji cinta</p><p>Juga mustahil bagiku menggapai bintang di langit<br />Siapalah diriku hanya insan biasa<br />Semua itu sungguh aku tiada mampu</p><p>Salah aku juga karena jatuh cinta<br />Insan sepertimu seanggun bidadari<br />Seharusnya aku cerminkan diriku<br />Sebelum tirai hati aku buka untuk mencintaimu</p><p>(*)</p><p>Juga mustahil bagiku menggapai bintang di langit<br />Siapalah diriku hanya insan biasa<br />Semua itu sungguh aku tiada mampu</p><p>Salah aku juga karena jatuh cinta<br />Insan seperti dirimu selembut bidadari<br />Seharusnya aku cerminkan diriku<br />Sebelum tirai hati aku buka untuk mencintaimu</p>"
+    },
+    {
+      "id": 6,
+      "name_category": "RAFFA",
+      "title": "KUSIMPAN RINDU DIHATI",
+      "image": "file:///android_asset/image/raa.jpg",
+      "link_mp3": "mp3/3RFKUSIMPANRNDUDIHATIFA.mp3",
+      "duration": "282",
+      "lyrics": "<p>Sungguh ku menyesal telah mengenal dia<br />Dan aku kecewa pernah menyayanginya<br />Dan aku tak akan<br />Mengulang kedua kalinya</p><p>Kusimpan rindu dihati<br />Gelisah tak menentu<br />Berawal dari kita bertemu<br />Kau akan ku jaga</p><p>Ku ingin engkau mengerti<br />Betapa kau ku cinta<br />Hanya padamu aku bersumpah<br />Kau akan 'ku jaga sampai mati</p><p>Ku ingin selalu 'tuk menyayangimu<br />Dan ku ingin selalu 'tuk mencintaimu<br />Walau sampai akhir<br />Hayat ini</p><p>Jalan hidup kita berbeda<br />Aku hanyalah anak jalanan<br />Yang tak punya harta berlimpah<br />Untukmu sayang</p><p>Ku tunggu kau ku tunggu<br />Ku nanti kau ku nanti<br />Walau sampai akhir<br />Hayat ini<br />Ho-o...</p>"
+    },
+    {
+      "id": 7,
+      "name_category": "RAFFA",
+      "title": "HAL HEBAT",
+      "image": "file:///android_asset/image/raa.jpg",
+      "link_mp3": "mp3/2RFHALHEBATSA.mp3",
+      "duration": "308",
+      "lyrics": "<p>Di hidup ini<br />Telah kusinggahi banyak cinta<br />Namun, tak pernah aku temui cinta<br />Sekuat aku menginginkan dia</p><p>Hal hebat kurasakan<br />Kini dicintai seseorang<br />Yang ku pun mencintai<br />Itu sempurna</p><p>Takkan siakan dia<br />Belum tentu ada yang s'perti dia<br />Satu dunia tahu aku bahagia<br />Banyak pasang mata saksinya</p><p>Takkan duakan dia<br />Belum tentu esok 'kan masih ada<br />Kesempatan tak datang kedua kalinya<br />Hargai dan jaga hatinya</p><p>Dalam diamku<br />Kupanjatkan s'lalu doa untuknya<br />Jodoh bukan soal sempurna<br />Namun, yang mampu tangguh tuk bertahan<br />Dan berjuang</p><p>Takkan siakan dia<br />Belum tentu ada yang seperti dia<br />Satu dunia tahu aku bahagia<br />Banyak pasang mata saksinya</p><p>Takkan duakan dia<br />Belum tentu esok 'kan masih ada<br />Kesempatan tak datang kedua kalinya<br />Hargai dan jaga hatinya</p><p>Ho-oh, ho-oh<br />Ho-oh-ho-wo-oh</p><p>Takkan siakan dia<br />Belum tentu ada yang seperti dia<br />Satu dunia tahu aku bahagia<br />Banyak pasang mata saksinya</p><p>Takkan duakan dia<br />Belum tentu esok 'kan masih ada<br />Kesempatan tak datang kedua kalinya<br />Hargai dan jaga hatinya</p><p>Ho-oh, ho-oh<br />Ho-oh-ho-wo-oh<br />Takkan siakan dia<br />Takkan siakan dia</p>"
+    },
+    {
+      "id": 8,
+      "name_category": "RAFFA",
+      "title": "ILU IMU",
+      "image": "file:///android_asset/image/raa.jpg",
+      "link_mp3": "mp3/1RFILUIMUFA.mp3",
+      "duration": "224",
+      "lyrics": "<p>A Awalnya Teman Biasa<br />B Biasa Menjadi Suka<br />C Cantik Parasmu Menggoda<br />D Detak Jantung Berbicara<br /><br />Dirimu Yang Ku Puja<br />Dirimu Membuatku Jatuh Cinta<br />Inginku Mengatakan<br />I Love You And I Miss You</p><p>Lagi-lagi Ku Gak Bisa Tidur<br />Lagi-lagi Ku Gak Bisa Makan<br />Pikiranku Selalu Melayang<br />Wajahmu Pun Selalu Terbayang</p><p>Lagi-lagi Ku Gak Bisa Tidur<br />Lagi-lagi Ku Gak Bisa Makan<br />Besok Lusa Kan Ku Katakan<br />Bahwa Aku Mencintai Kamu</p><p>A Awalnya Teman Biasa<br />B Biasa Menjadi Suka<br />C Cantik Parasmu Menggoda<br />D Detak Jantung Berbicara</p><p>Dirimu Yang Ku Puja<br />Dirimu Membuatku Jatuh Cinta<br />Inginku Mengatakan<br />I Love You And I Miss You</p><p>Lagi-lagi Ku Gak Bisa Tidur<br />Lagi-lagi Ku Gak Bisa Makan<br />Pikiranku Selalu Melayang<br />Wajahmu Pun Selalu Terbayang</p><p>Lagi-lagi Ku Gak Bisa Tidur<br />Lagi-lagi Ku Gak Bisa Makan<br />Besok Lusa Kan Ku Katakan<br />Bahwa Aku Mencintai Kamu</p><p>Dirimu Yang Ku Puja<br />Dirimu Membuatku Jatuh Cinta<br />Inginku Mengatakan<br />I Love You And I Miss You</p><p>Lagi-lagi Ku Gak Bisa Tidur<br />Lagi-lagi Ku Gak Bisa Makan<br />Pikiranku Selalu Melayang<br />Wajahmu Pun Selalu Terbayang<br /><br />Lagi-lagi Ku Gak Bisa Tidur<br />Lagi-lagi Ku Gak Bisa Makan<br />Besok Lusa Kan Ku Katakan<br />Bahwa Aku Mencintai Kamu</p><p>Lagi-lagi Ku Gak Bisa Tidur<br />Lagi-lagi Ku Gak Bisa Makan<br />Pikiranku Selalu Melayang<br />Wajahmu Pun Selalu Terbayang</p><p>Lagi-lagi Ku Gak Bisa Tidur<br />Lagi-lagi Ku Gak Bisa Makan<br />Besok Lusa Kan Ku Katakan<br />Bahwa Aku Mencintai Kamu</p><p>Lagi-lagi Ku Gak Bisa Tidur<br />Lagi-lagi Ku Gak Bisa Makan<br />Besok Lusa Akan Ku Katakan<br />Bahwa Aku Mencintai Kamu</p><p>Besok Lusa Akan Ku Katakan<br />Bahwa Aku Mencintai Kamu</p>"
+    },
+    {
+      "id": 9,
+      "name_category": "RAFFA",
+      "title": "CINTA SAMPAI MATI",
+      "image": "file:///android_asset/image/raa.jpg",
+      "link_mp3": "mp3/1RFCINTASAMPAIMATIFA.mp3",
+      "duration": "203",
+      "lyrics": "<p>Duhai engkau sang belahan jiwa<br />Namamu terukir dalam pusara<br />Di setiap langkah ku selalu berdoa<br />Semoga kita bersama</p><p>Duhai engkau tambatan hatiku<br />Labuhkanlah cintamu di hidupku<br />Kuingin kau tahu betapa merindu<br />Hiduplah engkau denganku</p><p>Dengarkanlah<br />Di sepanjang malam aku berdoa<br />Bersujud dan lalu aku meminta</p><p>Semoga kita bersama</p><p>Dengarkanlah<br />Di sepanjang malam aku berdoa<br />Cintaku untukmu selalu terjaga<br />Dan aku pasti setia</p>"
+    },
+    {
+      "id": 10,
+      "name_category": "RAFFA",
+      "title": "DINDA JANGAN MARAH MARAH",
+      "image": "file:///android_asset/image/raa.jpg",
+      "link_mp3": "mp3/RFDINDAJNGANMRAHMRAHFA.mp3",
+      "duration": "186",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "RAFFA",
+      "title": "DUKA",
+      "image": "file:///android_asset/image/raa.jpg",
+      "link_mp3": "mp3/RFDUKAFA.mp3",
+      "duration": "213",
+      "lyrics": "<p>Kau membunuhku dengan kepedihan ini<br />Kau hempaskanku kedalam retaknya hati<br />Hingga air mata tak mampu<br />Tuk melukiskan perih<br />Yang kau ukir dalam hati ini</p><p>Kau hancurkan diriku saat engkau pergi<br />Setelah kau patahkan sayap ini<br />Hingga ku takkan bisa<br />Tuk terbang tinggi lagi</p><p>Dan mencari bintang<br />Yang dapat menggantikanmu<br />Sampai kini masih kucoba<br />Tuk terjaga dari mimpiku</p><p>Yang buatku tak sadar<br />Bahwa kau bukan lagi milikku<br />Walau hati tak akan pernah<br />Dapat melupakan dirimu<br />Dan tiap tetes air mata<br />Yang jatuh kuatkan rinduku<br />Pada indah bayangmu canda tawamu<br />Pada indahnya duka dalam kenangan kita</p><p>Kau hancurkan diriku saat engkau pergi<br />Setelah kau patahkan sayap ini<br />Hingga ku takkan bisa<br />Tuk terbang tinggi lagi</p><p>Dan mencari bintang<br />Yang dapat menggantikanmu<br />Sampai kini masih kucoba<br />Tuk terjaga dari mimpiku</p><p>Yang buatku tak sadar<br />Bahwa kau bukan lagi milikku<br />Walau hati tak akan pernah<br />Dapat melupakan dirimu</p><p>Dan tiap tetes air mata<br />Yang jatuh kuatkan rinduku<br />Pada indah bayangmu canda tawamu<br />Pada indahnya duka dalam kenangan kita</p><p>Sampai kini masih kucoba<br />Tuk terjaga dari mimpiku<br />Yang buatku tak sadar<br />Bahwa kau bukan lagi milikku</p><p>Walau hati tak akan pernah<br />Dapat melupakan dirimu<br />Dan tiap tetes air mata<br />Yang jatuh kuatkan rinduku</p><p>Pada indah bayangmu canda tawamu<br />Pada indahnya duka dalam kenangan kita</p>"
+    }, {
+      "id": 12,
+      "name_category": "RAFFA",
+      "title": "HENDAK CARI PENGGANTI",
+      "image": "file:///android_asset/image/raa.jpg",
+      "link_mp3": "mp3/RFHENDAKCARIPENGGANTIFA.mp3",
+      "duration": "235",
+      "lyrics": "<p>Dingin malam yang sepi, aku terdiam diri<br />Mahligai cinta kita s'makin menepi<br />Dirimu kusayangi dengan sepenuh hati<br />Namun sepenggal diri telah berganti</p><p>Lelah kaki melangkah, sesat, dan tanpa arah<br />Dan di puncak khayalan, dirimu kuharapkan<br />Namun engkau berubah tak seperti biasa<br />Sungguh aku terluka dengan ini semua</p><p>Hendaklah engkau cari pengganti<br />Aku tak pantas engkau miliki<br />Kita bagaikan langit dan bumi<br />Jauh sekali</p><p>Sungguh sukar memilikimu<br />Ingin kugapai tapi tak mampu<br />Cinta yang dulu sangat menggebu<br />Hilang berlalu</p><p>Lelah kaki melangkah, sesat, dan tanpa arah<br />Dan di puncak khayalan, dirimu kuharapkan<br />Namun engkau berubah tak seperti biasa<br />Sungguh aku terluka dengan ini semua</p><p>Hendaklah engkau cari pengganti<br />Aku tak pantas engkau miliki<br />Kita bagaikan langit dan bumi<br />Jauh sekali</p><p>Sungguh sukar memilikimu<br />Ingin kugapai tapi tak mampu<br />Cinta yang dulu sangat menggebu<br />Hilang berlalu</p><p>Hendaklah engkau cari pengganti<br />Aku tak pantas engkau miliki<br />Kita bagaikan langit dan bumi<br />Jauh sekali</p><p>Sungguh sukar memilikimu<br />Ingin kugapai tapi tak mampu<br />Cinta yang dulu sangat menggebu<br />Hilang berlalu</p><p>Cinta yang dulu sangat menggebu<br />Hilang berlalu<br />Cinta yang dulu sangat menggebu<br />Hilang berlalu</p>"
+    }, {
+      "id": 13,
+      "name_category": "RAFFA",
+      "title": "HUJAN KEMARIN",
+      "image": "file:///android_asset/image/raa.jpg",
+      "link_mp3": "mp3/RFHUJANKEMARIFA.mp3",
+      "duration": "250",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "RAFFA",
+      "title": "MELUKIS SENJA",
+      "image": "file:///android_asset/image/raa.jpg",
+      "link_mp3": "mp3/RFMELUKISSENJAFA.mp3",
+      "duration": "194",
+      "lyrics": "<p>Aku mengerti perjalanan hidup yang kini kau lalui<br />Ku berharap meski berat kau tak merasa sendiri<br />Kau telah berjuang menaklukankan hari-hari mu yang tak mudah<br />Biar ku menemanimu membasuh lelah mu</p><p>Izinkan ku lukis senja<br />Mengukir namamu di sana<br />Mendengar kamu bercerita<br />Menangis tertawa<br />Biar ku lukis malam<br />Bawa kamu bintang-bintang<br />Tuk temanimu yang terluka<br />Hingga kau bahagia</p><p>Aku disini walau letih coba lagi jangan berhenti<br />Ku berharap meski berat kau tak merasa sendiri<br />Kau telah berjuang menaklukankan hari-hari mu yang tak indah<br />Biar ku menemanimu membasuh lelah mu</p><p>Izinkan ku lukis senja<br />Mengukir namamu di sana<br />Mendengar kamu bercerita<br />Menangis tertawa<br />Biar ku lukis malam<br />Bawa kamu bintang-bintang<br />Tuk temanimu yang terluka<br />Hingga kau bahagia hah</p><p>Izinkan ku lukis senja<br />Mengukir namamu di sana<br />Mendengar kamu bercerita<br />Menangis tertawa<br />Biar ku lukis malam<br />Bawa kamu bintang-bintang<br />Tuk temanimu yang terluka<br />Hingga kau bahagia<br />Tuk temanimu yang terluka<br />Hingga kau bahagia</p>"
+    }, {
+      "id": 15,
+      "name_category": "RAFFA",
+      "title": "PEDIH",
+      "image": "file:///android_asset/image/raa.jpg",
+      "link_mp3": "mp3/RFPEDIHFA.mp3",
+      "duration": "221",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "RAFFA",
+      "title": "PENANTIAN",
+      "image": "file:///android_asset/image/raa.jpg",
+      "link_mp3": "mp3/RFPENANTIANFA.mp3",
+      "duration": "202",
+      "lyrics": ""
+    }, {
+      "id": 17,
+      "name_category": "RAFFA",
+      "title": "PUTUS ATAU TERUS",
+      "image": "file:///android_asset/image/raa.jpg",
+      "link_mp3": "mp3/RFPTUSATAUTERUSFA.mp3",
+      "duration": "246",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "RAFFA",
+      "title": "SELURUH NAFAS INI",
+      "image": "file:///android_asset/image/raa.jpg",
+      "link_mp3": "mp3/RFSELURUHNAFASINIFA.mp3",
+      "duration": "163",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "POP INDO HITS",
+      "title": "ARVIN MELEPAS LAJANG",
+      "image": "file:///android_asset/image/INPH.jpg",
+      "link_mp3": "mp3/ZBAMELEPASLAJANGFA.mp3",
+      "duration": "235",
+      "lyrics": "<p>Mungkin sudah saatnya<br />'Kan kuakhiri masa kesendirian<br />Mempersiapkan hati 'tuk melamarmu<br />Terimalah diriku</p><p>Mungkin saat ini ku akan melepas masa lajangku<br />'Kan kupersunting dirimu<br />Jadilah pasanganku dan hidup menua bersamaku<br />Terimalah cintaku</p><p>Mungkin sudah saatnya<br />'Kan kuakhiri masa kesendirian<br />Mempersiapkan hati 'tuk melamarmu<br />Terimalah cintaku, hu-uh-oh-oh</p><p>Mungkin saat ini ku akan melepas masa lajangku<br />'Kan kupersunting dirimu<br />Jadilah pasanganku dan hidup menua bersamaku<br />Terimalah cintaku</p><p>Uh-oh-oh-oh, wo-wo-wo<br />Wo-uh-hu-uh</p><p>Mungkin saat ini ku akan melepas masa lajangku<br />'Kan kupersunting dirimu<br />Jadilah pasanganku dan hidup menua bersamaku</p><p>Oh, mungkin saat ini ku akan melepas masa lajangku<br />'Kan kupersunting dirimu<br />Jadilah pasanganku dan hidup menua bersamaku<br />Terimalah cintaku</p>"
+    },
+    {
+      "id": 20,
+      "name_category": "POP INDO HITS",
+      "title": "DANAR DULU",
+      "image": "file:///android_asset/image/INPH.jpg",
+      "link_mp3": "mp3/ZBDDULUFA.mp3",
+      "duration": "211",
+      "lyrics": "<p>Dulu, ku kau maki<br />Ku kau hina<br />Ku kau benci<br />Dulu, kau injaki<br />Harga diri Ku tak sempurna</p><p>Akan kubuktikan<br />Kan kulawan<br />Tak 'kan terhenti</p><p>Akan kubuktikan<br />Ku tak 'kan mati<br />Karena di-bully</p><p>Dulu, engkau rengkuh<br />Semua maumu<br />Walau ku ringkih</p><p>Dulu, kau berkuasa<br />Karena harta<br />Bapakmu punya</p><p>Akan kubuktikan<br />Kan ku 'lawan<br />Tak 'kan terhenti</p><p>Akan kubuktikan<br />Ku tak 'kan mati<br />Karena di-bully</p>"
+    },
+    {
+      "id": 21,
+      "name_category": "POP INDO HITS",
+      "title": "DANAR KOTA",
+      "image": "file:///android_asset/image/INPH.jpg",
+      "link_mp3": "mp3/ZBDKOTAFA.mp3",
+      "duration": "189",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "POP INDO HITS",
+      "title": "DANAR YANG TERDALAM",
+      "image": "file:///android_asset/image/INPH.jpg",
+      "link_mp3": "mp3/ZBDYANGTERDALAMFA.mp3",
+      "duration": "147",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "POP INDO HITS",
+      "title": "KANGEN BAND CINTA SAMPAI MATI",
+      "image": "file:///android_asset/image/INPH.jpg",
+      "link_mp3": "mp3/ZBKCINTASMPAIMATIFA.mp3",
+      "duration": "208",
+      "lyrics": "<p>Duhai engkau, sang Belahan Jiwa<br />Namamu terukir dalam pusara<br />Di setiap langkah, ku s'lalu berdoa<br />Semoga kita bersama</p><p>Duhai engkau, tambatan hatiku<br />Labuhkanlah cintamu di hidupku<br />Ku ingin kau tahu betapa merindu<br />Hiduplah engkau denganku</p><p>Dengarkanlah<br />Di sepanjang malam, aku berdoa<br />Bersujud dan lalu aku meminta<br />Semoga kita bersama</p><p>Dengarkanlah<br />Di sepanjang malam, aku berdoa<br />Cintaku untukmu s'lalu terjaga<br />Dan aku pasti setia</p><p>Ha-ah-ah, ha-ah-ah-ah</p><p>Duhai engkau, tambatan hatiku<br />Labuhkanlah cintamu di hidupku<br />Ku ingin kau tahu betapa merindu<br />Hiduplah engkau denganku</p><p>Dengarkanlah<br />Di sepanjang malam, aku berdoa<br />Bersujud dan lalu aku meminta<br />Semoga kita bersama</p><p>Dengarkanlah<br />Di sepanjang malam, aku berdoa<br />Cintaku untukmu s'lalu terjaga<br />Dan aku pasti setia</p><p>Dengarkanlah<br />Di sepanjang malam, aku berdoa<br />Bersujud dan lalu aku meminta<br />Semoga kita bersama</p><p>Dengarkanlah<br />Di sepanjang malam, aku berdoa<br />Cintaku untukmu s'lalu terjaga<br />Dan aku pasti setia</p><p>Dengarkanlah</p>"
+    },
+    {
+      "id": 24,
+      "name_category": "POP INDO HITS",
+      "title": "KANGEN BAND TAKKAN TERGANTI",
+      "image": "file:///android_asset/image/INPH.jpg",
+      "link_mp3": "mp3/ZBKTAKKANTERGANTIFA.mp3",
+      "duration": "252",
+      "lyrics": "<p>Ku bersyukur memiliki kamu<br />Ku bahagia ada di sampingmu<br />Hati ini terasa tenang<br />Bila kau selalu bersama diriku</p><p>Ku terima kekurangan kamu<br />Kau terima kekurangan aku<br />Lengkapilah lembar jalanku<br />Untuk mengarungi di setiap langkahku</p><p>Dari dalam hati kau takkan terganti<br />Sampai nanti aku mati<br />Dari dalam hati kau takkan terganti</p><p>Ku cintai kau setulus hati<br />Ku sayangi kau sepenuh hati<br />Aku mohon kau tetap di sini<br />Menemani aku sampai akhir nanti</p><p>Kan ku jaga kau s'lama-lamanya<br />Sampai raga tak lagi bernyawa<br />Aku mohon kau tetap setia<br />Menemani aku sampai akhir dunia</p><p>Dari dalam hati kau takkan terganti<br />Sampai nanti aku mati<br />Dari dalam hati kau takkan terganti</p><p>Ku cintai kau setulus hati<br />Ku sayangi kau sepenuh hati<br />Aku mohon kau tetap di sini<br />Menemani aku sampai akhir nanti</p><p>Kan ku jaga kau s'lama-lamanya<br />Sampai raga tak lagi bernyawa<br />Aku mohon kau tetap setia<br />Menemani aku sampai akhir dunia</p><p>Ku cintai kau setulus hati<br />Ku sayangi kau sepenuh hati<br />Aku mohon kau tetap di sini<br />Menemani aku sampai akhir nanti</p><p>Kan ku jaga kau s'lama-lamanya<br />Sampai raga tak lagi bernyawa<br />Aku mohon kau tetap setia<br />Menemani aku sampai akhir dunia</p><p>Aku mohon kau tetap setia<br />Menemani aku sampai akhir dunia</p>"
+    },
+    {
+      "id": 25,
+      "name_category": "POP INDO HITS",
+      "title": "MAHALINI MELAWAN RESTU",
+      "image": "file:///android_asset/image/INPH.jpg",
+      "link_mp3": "mp3/ZBMMELAWANRESFA.mp3",
+      "duration": "205",
+      "lyrics": "<p>Indah semua cerita<br />Yang t'lah terlewati dalam satu cinta<br />Kita yang pernah bermimpi<br />Jalani semua, hanya ada kita</p><p>Namun ternyata, pada akhirnya<br />Tak mungkin bisa kupaksa<br />Restunya tak berpihak<br />Pada kita</p><p>Mungkinkah aku meminta<br />Kisah kita selamanya?<br />Tak terlintas dalam benakku<br />Bila hariku tanpamu</p><p>S'gala cara t'lah kucoba<br />Pertahankan cinta kita<br />S'lalu kutitipkan dalam doaku<br />Tapi ku tak mampu melawan restu</p><p>Namun ternyata, pada akhirnya<br />Tak mungkin bisa kupaksa<br />Restunya tak berpihak<br />Pada kita</p><p>Mungkinkah aku meminta<br />Kisah kita selamanya?<br />Tak terlintas dalam benakku<br />Bila hariku tanpamu</p><p>S'gala cara t'lah kucoba<br />Pertahankan cinta kita (cinta kita)<br />S'lalu kutitipkan dalam doaku<br />Tapi ku tak mampu melawan restu, ho-oh</p><p>Ho-ho-wo-oh<br />Ho-oh-oh</p><p>Mungkinkah aku meminta<br />Kisah kita selamanya?<br />Tak terlintas dalam benakku<br />Bila hariku tanpamu</p><p>S'gala cara t'lah kucoba<br />Pertahankan cinta kita<br />S'lalu kutitipkan dalam doaku<br />Tapi ku tak mampu melawan restu</p>"
+    },
+    {
+      "id": 26,
+      "name_category": "POP INDO HITS",
+      "title": "MAHALINI SISA RASA",
+      "image": "file:///android_asset/image/INPH.jpg",
+      "link_mp3": "mp3/ZBMSISARAFA.mp3",
+      "duration": "242",
+      "lyrics": "<p>Melihatmu bahagia, satu hal yang terindah<br />Anug'rah cinta yang pernah kupunya<br />Kau buatku percaya ketulusan cinta<br />Seakan kisah sempurna 'kan tiba</p><p>Masih jelas teringat pelukanmu yang hangat<br />Seakan semua tak mungkin menghilang<br />Kini hanya kenangan yang telah kau tinggalkan<br />Tak tersisa lagi waktu bersama</p><p>Mengapa masih ada<br />Sisa rasa di dada<br />Di saat kau pergi begitu saja?<br />Mampukah ku bertahan<br />Tanpa hadirmu, sayang?<br />Tuhan, sampaikan rindu untuknya (rindu untuknya)</p><p>Masih jelas teringat (jelas teringat) pelukanmu yang hangat<br />Seakan semua tak mungkin menghilang (menghilang)<br />Kini hanya kenangan yang t'lah kau tinggalkan<br />Tak tersisa lagi waktu bersama (waktu bersama)</p><p>Mengapa masih ada<br />Sisa rasa di dada<br />Di saat kau pergi begitu saja? (Begitu saja)<br />Mampukah ku bertahan<br />Tanpa hadirmu, sayang?<br />Tuhan, sampaikan rindu untuknya</p><p>Oh, masih tersimpan<br />Setiap kеnangan, ho-wo-wo-oh<br />Semua cinta yang kau beri<br />Kau takkan terganti</p><p>Mеngapa masih ada (masih ada)<br />Sisa rasa di dada (rasa di dada)<br />Di saat kau pergi begitu saja?<br />Mampukah ku bertahan<br />(Tanpa hadirmu, sayang?)<br />Tuhan, sampaikan rindu untuknya</p><p>Sampaikan rinduku untuknya</p>"
+    },
+    {
+      "id": 27,
+      "name_category": "POP INDO HITS",
+      "title": "TULUS DIRI",
+      "image": "file:///android_asset/image/INPH.jpg",
+      "link_mp3": "mp3/ZBTDIRIFA.mp3",
+      "duration": "230",
+      "lyrics": "<p>Hari ini<br />Kau berdamai dengan dirimu sendiri<br />Kau maafkan<br />Semua salahmu ampuni dirimu</p><p>Hari ini<br />Ajak lagi dirimu bicara mesra<br />Berjujurlah<br />Pada dirimu kau bisa percaya</p><p>Maafkan semua yang lalu<br />Ampuni hati kecilmu</p><p>Luka-luka hilanglah luka<br />Biar tenteram yang berkuasa<br />Kau terlalu berharga untuk luka<br />Katakan pada dirimu<br />Semua baik-baik saja</p><p>Bisikkanlah<br />Terima kasih pada diri sendiri<br />Hebat dia<br />Terus menjagamu dan sayangimu</p><p>Suarakan<br />Bilang padanya jangan paksakan apa pun<br />Suarakan<br />Ingatkan terus aku makna cukup</p><p>Luka-luka hilanglah luka<br />Biar senyum jadi senjata<br />Kau terlalu berharga untuk luka<br />Katakan pada dirimu<br />Semua baik-baik saja</p><p>Bila lelah menepilah<br />Hayati alur napasmu</p><p>Luka-luka hilanglah luka<br />Biar tenteram yang berkuasa<br />Kau terlalu berharga untuk luka<br />Katakan pada dirimu<br />Semua baik-baik saja</p><p>Luka-luka hilanglah luka<br />Biar senyum jadi senjata<br />Kau terlalu berharga untuk luka<br />Katakan pada dirimu<br />Semua baik-baik saja</p><p>Semua baik-baik saja</p>"
+    },
+    {
+      "id": 28,
+      "name_category": "POP INDO HITS",
+      "title": "TULUS JATUH SUKA",
+      "image": "file:///android_asset/image/INPH.jpg",
+      "link_mp3": "mp3/ZBTJATUHSUKAFA.mp3",
+      "duration": "213",
+      "lyrics": "<p>Sungguh ku tidak memiliki daya<br />Di depan harummu<br />Sungguh terkunci kata yang tertata<br />Di depan ragamu uuu-uu-u-uu</p><p>Bila kau lihat ku tanpa sengaja<br />Beginikah surga?<br />Bayangkan bila kau ajakku bicara</p><p>Ini semua bukan salahmu<br />Punya magis perekat yang sekuat itu<br />Dari lahir sudah begitu<br />Maafkan<br />Aku jatuh suka</p><p>Bila kau lihat ku tanpa sengaja uu-uuu<br />Beginikah surga?<br />Bayangkan bila kau ajakku bicara</p><p>Ini semua bukan salahmu<br />Punya magis perekat yang sekuat itu<br />Dari lahir sudah begitu<br />Maafkan<br />Aku jatuh suka</p><p>Bila kau berkenan<br />Biarkan ku di sampingmu<br />Berkuranglah satu jiwa yang sepi</p><p>Ini semua bukan salahmu<br />Punya magis perekat yang sekuat itu<br />Dari lahir sudah begitu<br />Maafkan, oouh</p><p>Ini semua bukan salahmu<br />Punya magis perekat yang sekuat itu<br />Dari lahir sudah begitu<br />Maafkan<br />Aku jatuh suka<br />Hmm-mmm<br />Aku jatuh suka</p>"
+    },
+    {
+      "id": 29,
+      "name_category": "POP INDO HITS",
+      "title": "TIARA MERASA INDAH",
+      "image": "file:///android_asset/image/INPH.jpg",
+      "link_mp3": "mp3/ZBTNMERASAINDAHFA.mp3",
+      "duration": "201",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "POP INDO HITS",
+      "title": "YURA TUTUR BATIN",
+      "image": "file:///android_asset/image/INPH.jpg",
+      "link_mp3": "mp3/ZBYTUTURBANTINFA.mp3",
+      "duration": "196",
+      "lyrics": "<p>Bagaimanakah kabar diriku? Baik-baik saja<br />Sedikit ku takjub, namun, nyatanya sudah kuduga<br />Kau yang ke sana-kemari, kau anggap aku tak cukup<br />Semua kesempatan dan langkahku coba kau tutup</p><p>Tutur batinku tak akan salah<br />Silakan pergi, ku tak rasa kalah<br />Namun, percayalah, sejauh mana kau mencari<br />Takkan kau temukan yang sebaik ini</p><p>Kau yang ke sana-kemari, kau anggap aku tak cukup<br />Semua kesempatan dan langkahku coba kau tutup<br />'Kan kubuat jalanku sendiri</p><p>Tutur batinku tak akan salah<br />Silakan pergi, ku tak rasa kalah<br />Namun, percayalah, sejauh mana kau mencari<br />Takkan kau temukan yang sebaik ini</p><p>Aku tak sempurna<br />Tak perlu sempurna<br />Akan kurayakan apa adanya</p><p>Aku tak sempurna<br />Tak perlu sempurna<br />Akan kurayakan apa adanya</p><p>Aku tak sempurna<br />Tak perlu sempurna<br />Akan kurayakan apa adanya</p><p>Tutur batinku tak akan salah<br />Silakan pergi, ku tak rasa kalah<br />Namun, percayalah, sejauh mana kau mencari</p><p>Takkan kau temukan yang sebaik ini<br />Takkan kau temukan yang sebaik ini<br />Jiwa yang terbaik itu hanya<br />Aku</p>"
+    },
+    {
+      "id": 31,
+      "name_category": "POP INDO HITS",
+      "title": "TRI SUAKA DURI DURI",
+      "image": "file:///android_asset/image/INPH.jpg",
+      "link_mp3": "mp3/ZBZDURIDURIFA.mp3",
+      "duration": "413",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "POP INDO HITS",
+      "title": "ZIDAN SIA SIA BERJUANG",
+      "image": "file:///android_asset/image/INPH.jpg",
+      "link_mp3": "mp3/ZBZSIASIABERJUANGFA.mp3",
+      "duration": "244",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "POP INDO HITS",
+      "title": "TULUS HATI HATI DIJALAN",
+      "image": "file:///android_asset/image/INPH.jpg",
+      "link_mp3": "mp3/ZBZTHATIHATIDIJALANFA.mp3",
+      "duration": "212",
+      "lyrics": "<p>Perjalanan membawamu<br />Bertemu denganku<br />Ku bertemu kamu<br />Sepertimu yang kucari<br />Konon, aku juga s'perti yang kau cari</p><p>Kukira kita asam dan garam<br />Dan kita bertemu di belanga<br />Kisah yang ternyata tak seindah itu</p><p>Kukira kita akan bersama<br />Begitu banyak yang sama<br />Latarmu dan latarku<br />Kukira takkan ada kendala<br />Kukira ini 'kan mudah<br />Kau, aku jadi kita</p><p>Kasih sayangmu membekas<br />Redam kini sudah pijar istimewa<br />Entah apa maksud dunia<br />Tentang ujung cerita<br />Kita tak bersama</p><p>Semoga rindu ini menghilang<br />Konon katanya waktu sembuhkan<br />Akan adakah lagi yang sepertimu?</p><p>Kukira kita akan bersama<br />Begitu banyak yang sama<br />Latarmu dan latarku<br />Kukira takkan ada kendala<br />Kukira ini 'kan mudah<br />Kau, aku jadi kita</p><p>Kau melanjutkan perjalananmu<br />Ku melanjutkan perjalananku<br />Uh-uu, uu</p><p>Kukira kita akan bersama<br />Begitu banyak yang sama<br />Latarmu dan latarku<br />Kukira takkan ada kendala</p><p>Kukira ini 'kan mudah<br />Kau, aku jadi kita<br />Kukira kita akan bersama</p><p>Hati-hati di jalan</p>"
+    }
+
+  ]
+}
