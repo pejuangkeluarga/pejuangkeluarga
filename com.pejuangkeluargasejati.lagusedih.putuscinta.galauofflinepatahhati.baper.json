@@ -3,7 +3,7 @@
     {
     "admob_interid": "",
     "admob_bannerid": "",
-  "interval":5,
+  "interval":100,
     "startappid": "208683911"
 
     }
