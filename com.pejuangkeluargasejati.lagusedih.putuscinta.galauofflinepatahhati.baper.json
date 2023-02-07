@@ -1,9 +1,9 @@
 {
  "Ads": [
     {
-    "admob_interid": "x",
+    "admob_interid": "",
     "admob_bannerid": "",
-  "interval":1,
+  "interval":5,
     "startappid": ""
 
     }
